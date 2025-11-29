@@ -9,9 +9,9 @@
 git clone https://github.com/ameliaapriyani145-dot/Project1.git
 cd Project1}
 }
-  {'npm install'
-        npm run dev
-        npm run build 
-        npm start
+  {npm install;
+        npm run dev;
+        npm run build; 
+        npm start;
 }
 }
